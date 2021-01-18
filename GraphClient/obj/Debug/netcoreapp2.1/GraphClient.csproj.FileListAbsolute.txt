@@ -1,0 +1,12 @@
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.deps.json
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.runtimeconfig.json
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.runtimeconfig.dev.json
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.dll
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.pdb
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.csprojAssemblyReference.cache
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.AssemblyInfoInputs.cache
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.AssemblyInfo.cs
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.csproj.CoreCompileInputs.cache
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.dll
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.pdb
+D:\20610\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.genruntimeconfig.cache
